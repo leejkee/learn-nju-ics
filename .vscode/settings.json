@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "logic.h": "c",
+        "stdio.h": "c"
+    }
+}
